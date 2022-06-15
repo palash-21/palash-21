@@ -25,7 +25,7 @@
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
 [![Linkedin: Palash Pathak](https://img.shields.io/badge/-PalashPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/palash-pathak-a575b2146/)](https://www.linkedin.com/in/palash-pathak-a575b2146/)
-[![GitHub Palash Pathak](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/palash-21)
+[![GitHub Palash Pathak]](https://github.com/palash-21)
 [![website](https://img.shields.io/badge/PortfolioWebsite-MoneshVenkul.live-2648ff?style=flat-square&logo=google-chrome)](https://moneshvenkul.github.io/)
 
 
