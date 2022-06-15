@@ -1,6 +1,5 @@
 ## Hola, I'm [Palash Pathak!](https://github.com/palash-21) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="palash-21" /> </p>
 
 
 <a href="https://www.linkedin.com/in/palash-pathak-a575b2146/">
