@@ -21,12 +21,12 @@
 - 👯 I love python.
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Data Science or any tech related stuff.
-- 📫 How to reach me: [Linkedin - @MoneshVenkul](https://www.linkedin.com/in/palash-pathak-a575b2146/)
+- 📫 How to reach me: [Linkedin - @PalashPathak](https://www.linkedin.com/in/palash-pathak-a575b2146/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
-[![Linkedin: MoneshVenkul](https://img.shields.io/badge/-MoneshVenkul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/palash-pathak-a575b2146/)](https://www.linkedin.com/in/palash-pathak-a575b2146/)
-[![GitHub MoneshVenkul](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/palash-21)
+[![Linkedin: Palash Pathak](https://img.shields.io/badge/-PalashPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/palash-pathak-a575b2146/)](https://www.linkedin.com/in/palash-pathak-a575b2146/)
+[![GitHub Palash Pathak](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/palash-21)
 [![website](https://img.shields.io/badge/PortfolioWebsite-MoneshVenkul.live-2648ff?style=flat-square&logo=google-chrome)](https://moneshvenkul.github.io/)
 
 
