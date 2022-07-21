@@ -26,7 +26,7 @@
 
 [![Linkedin: Palash Pathak](https://img.shields.io/badge/-PalashPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/palash-pathak-a575b2146/)](https://www.linkedin.com/in/palash-pathak-a575b2146/)
 [![GitHub Palash Pathak](https://img.shields.io/badge/-PalashPathak-blue?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/palash-21)](https://github.com/palash-21)
-[![website](https://img.shields.io/badge/PortfolioWebsite-MoneshVenkul.live-2648ff?style=flat-square&logo=google-chrome)](https://moneshvenkul.github.io/)
+
 
 
 **Languages and Tools:**  
