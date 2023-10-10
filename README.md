@@ -22,7 +22,7 @@
 - 💬 Ask me about Python or any tech related stuff.
 - 📫 How to reach me: [Linkedin - @PalashPathak](https://www.linkedin.com/in/palash-pathak-a575b2146/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I would love to work with same minded people like me as a team.
+- ⚡ Fun fact: I would love to work with like-minded people as a team.
 
 [![Linkedin: Palash Pathak](https://img.shields.io/badge/-PalashPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/palash-pathak-a575b2146/)](https://www.linkedin.com/in/palash-pathak-a575b2146/)
 [![GitHub Palash Pathak](https://img.shields.io/badge/-PalashPathak-blue?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/palash-21)](https://github.com/palash-21)
