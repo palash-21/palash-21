@@ -1,4 +1,4 @@
-## Hola, I'm [Palash Pathak!](https://github.com/palash-21) 👋
+## Hola, I'm [Palash !](https://github.com/palash-21) 👋
 
 
 
