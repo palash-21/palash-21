@@ -15,11 +15,11 @@
 
 
 
-- 🔭 I am a Data Science Enthusiast 
-- 🌱 I’m currently learning more about ML & AI.
+- 🔭 I am a Python Developer. 
+- 🌱 I’m currently learning more about developing and deploying applications.
 - 👯 I love python.
 - 🤔 I’m looking for help with career guidance.
-- 💬 Ask me about Data Science or any tech related stuff.
+- 💬 Ask me about Python or any tech related stuff.
 - 📫 How to reach me: [Linkedin - @PalashPathak](https://www.linkedin.com/in/palash-pathak-a575b2146/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
