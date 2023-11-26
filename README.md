@@ -31,8 +31,8 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg"></code>
 
 
 <div align="center">
