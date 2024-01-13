@@ -1,17 +1,12 @@
 ## Hola, I'm [Palash !](https://github.com/palash-21) 👋
 
 
-<div class="row">
 <a href="https://www.linkedin.com/in/palash-pathak-a575b2146/">
   <img align="left" alt="Palash's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/palash-21">
   <img align="left" alt="Palash's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://github.com/palash-21">
-  <img align="left" alt="Palash's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Github-circle_%28CoreUI_Icons_v1.0.0%29.svg" />
-</a>
-</div>
 
 
 <br/>
