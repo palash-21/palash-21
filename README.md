@@ -34,7 +34,7 @@
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"></code>
-<code><img height="20" src="https://en.wikipedia.org/wiki/Go_%28programming_language%29#/media/File:Go_Logo_Blue.svg"></code>
+<code><img height="20" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"></code>
 
 
 <div align="center">
