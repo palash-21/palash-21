@@ -31,9 +31,10 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" style="background-color:white"></code>
+
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"></code>
+<code><img height="20" src="https://en.wikipedia.org/wiki/Go_%28programming_language%29#/media/File:Go_Logo_Blue.svg"></code>
 
 
 <div align="center">
