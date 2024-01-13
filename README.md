@@ -31,7 +31,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" style="background-color:white;padding:20px;"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" style="background-color:white"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg"></code>
 
 
