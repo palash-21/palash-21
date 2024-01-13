@@ -33,6 +33,7 @@
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" style="background-color:white"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"></code>
 
 
 <div align="center">
